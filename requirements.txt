@@ -1,0 +1,5 @@
+# requirements.txt
+
+# Example dependencies (update as needed)
+google-ai-library==1.2.3
+markdown
